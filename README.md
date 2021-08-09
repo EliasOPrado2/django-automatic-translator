@@ -15,3 +15,7 @@ Usage:
 >>> tr.text
 "Hello i'm Elias."
 ```
+
+ps: This approach can be added to serializers or viewsets.
+
+Also, it may be possible to add choices on fields as well.
